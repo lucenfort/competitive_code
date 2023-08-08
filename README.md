@@ -34,7 +34,3 @@ Para utilizar o código, siga as etapas abaixo:
 3. Personalize a lógica de execução do código, se necessário. Você pode adicionar ou modificar os comandos dentro do bloco `for` na função `main()` para adaptar o código às suas necessidades.
 
 4. O código irá ler as entradas do arquivo de entrada, executar o código com cada conjunto de inputs e salvar a saída no arquivo de saída.
-
-## Contribuição
-
-Contribuições são bem-vindas! Se você encontrar algum problema ou tiver alguma sugestão de melhoria, sinta-se à vontade para enviar uma pull request. Antes de contribuir, leia as [diretrizes de contribuição](CONTRIBUTING.md) para obter mais informações.
