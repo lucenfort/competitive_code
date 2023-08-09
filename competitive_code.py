@@ -76,7 +76,7 @@ def main():
     with open(input_file, "r", encoding="utf-8") as f:
         inputs = f.read().splitlines()
 
-    num_executions = 0  # Counter variable for number of executions
+    num_executions = 0  # Contador para o número de execuções
 
     try:
         with open(output_file, "w", encoding="utf-8") as f:
