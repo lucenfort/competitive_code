@@ -65,7 +65,7 @@ def main():
     input_file = "data/input.txt"
     output_file = "data/output.txt"
 
-    # Obter o número de inputs e elementos
+    # Obter o número de inputs e elementos e faz a impressão
     print("\n====================================================")
     num_inputs = count_inputs(code_file)
     num_elements = count_elements(input_file)
